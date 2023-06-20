@@ -1,0 +1,57 @@
+body{
+    background-color:azure
+}
+header{
+    color:green;
+    text-align:center;
+}
+div.container{
+    color:deeppink;
+    text-align:center;
+
+    }
+OL.myol{
+    display:inline-block;
+    text-align:left;
+
+}
+
+#one{
+    text-align:center;
+}
+ul.myul{
+    display:inline-block;
+    text-align:left;
+
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%
+}
+table{
+    width:100%
+}
+H1{
+    TEXT-ALIGN:LEFT;
+    color:darkmagenta
+}
+#TWO{
+    color:tomato;
+}
+#three{
+    color:rgb(226, 180, 43);
+}
+div.mycontainer{
+    color:crimson;
+    text-align:center;
+
+    }
+H2{
+    color: firebrick;
+}
+#FOUR{
+    color:saddlebrown
+}

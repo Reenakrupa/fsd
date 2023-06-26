@@ -1,0 +1,90 @@
+body{
+    background-color:cornsilk;
+}
+   
+header{
+    color:green;
+    text-align:start;
+    text-decoration: underline;
+    
+}
+div.container{
+    color:deeppink;
+    
+
+    display:grid;
+    align-items:center;
+    max-width: 100%;
+    max-height: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap:15px;
+    }
+
+
+OL.myol{
+    display:inline-block;
+    text-align:left;
+    font-size:large;
+
+
+}
+
+#one{
+    text-align:center;
+}
+ul.myul{
+    display:inline-block;
+    text-align:left;
+
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%
+}
+table{
+    width:100%
+}
+H1{
+    TEXT-ALIGN:LEFT;
+    color:darkmagenta
+}
+#TWO{
+    color:black;
+    text-align: start;
+    text-decoration:underline;
+    
+}
+#three{
+    color:black;
+    text-align: start;
+    text-decoration:underline;
+}
+div.mycontainer{
+    color:crimson;
+    display:grid;
+    align-items:center;
+    max-width: 100%;
+    max-height: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap:15px;
+
+    }
+H2{
+    color: firebrick;
+}
+#FOUR{
+    color:saddlebrown
+}
+
+
+#reena{
+    width:400px;
+    height:350px;
+}
+#shalem{
+    width:400px;
+    height:350px;
+}
